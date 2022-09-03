@@ -11,7 +11,7 @@ function App() {
         <footer>
           This project was coded by Merita Ramadani. It is{" "}
           <a
-            href=""
+            href="https://github.com/Rita997/react-weather-app"
             target="_blank"
             rel="noreferrer"
           >
